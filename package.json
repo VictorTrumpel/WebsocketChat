@@ -1,0 +1,22 @@
+{
+  "name": "websocketchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorTrumpel/WebsocketChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorTrumpel/WebsocketChat/issues"
+  },
+  "homepage": "https://github.com/VictorTrumpel/WebsocketChat#readme",
+  "dependencies": {
+    "ws": "^8.11.0"
+  }
+}
